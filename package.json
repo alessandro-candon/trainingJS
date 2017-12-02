@@ -1,0 +1,19 @@
+{
+  "name": "trainingjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alessandro Candon",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "gulp-babel": "^7.0.0",
+    "mocha": "^4.0.1",
+    "path": "^0.12.7"
+  }
+}
